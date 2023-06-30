@@ -1,0 +1,53 @@
+.character-card4 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+  background-color:  #3e3c3c;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.character-image4 {
+  
+  height:300px;
+  object-fit: cover;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.character-info4 {
+  
+  flex-direction: column;
+  margin-left: 10px;
+  color: yellow;
+}
+
+.character-info4 p strong {
+  color: yellow;
+}
+
+.link-info4 {
+  color: rgb(76, 116, 202);
+}
+
+
+.personajesId-container.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.personajesId-container.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.personajes-container.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.personajes-container.dark {
+  background-color: #000000;
+  color: #ffffff;
+}

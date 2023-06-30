@@ -1,0 +1,79 @@
+.location-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  
+  .location-card {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #3e3c3c;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .character-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    align-items: center;
+  }
+  
+  .location-info {
+    padding: 10px;
+    flex: 1;
+  }
+  
+  .location-info h3 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  
+  .location-info p {
+    margin-bottom: 5px;
+  }
+  
+  .title {
+    font-size: 24px;
+  }
+  
+  .status-species {
+    margin-bottom: 10px;
+  }
+
+  .location-card-link {
+    color: yellow; 
+  }
+  
+
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .pagination-buttons button {
+    margin-right: 10px;
+  }
+
+  .personajes-container.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .personajes-container.dark {
+    background-color: #000000;
+    color: #ffffff;
+  }

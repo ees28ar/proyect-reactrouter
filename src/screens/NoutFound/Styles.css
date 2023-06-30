@@ -1,0 +1,30 @@
+.notfound-avatar-container {
+    width: 500px;
+    height: auto;
+  }
+  
+  .avatar2 {
+    width: 100%;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+
+
+
+
+
+
+
+/*.avatar-container {
+    width: 1000px;  Establece el ancho deseado 
+    height: auto; /* Altura ajustada automáticamente según el tamaño de la imagen 
+  }
+  
+  .avatar2 {
+    width: 100%; /* Establece el ancho de la imagen al 100% del contenedor 
+    height: auto;
+    margin-right: 10px;
+  }
+  */
+  

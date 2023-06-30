@@ -1,0 +1,56 @@
+.nav-container.nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav .avatar2 {
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.nav .nav-links {
+  margin-left: auto;
+  display: flex;
+  list-style: none;
+}
+
+.nav .nav-links li {
+  margin-left: 10px;
+}
+
+.nav .nav-divider {
+  margin-top: 10px;
+}
+
+
+
+
+
+/*.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;  Alinea los elementos a la derecha 
+  }
+  
+  .avatar2 {
+    width: 100px;  Tamaño deseado de la imagen 
+    height: auto;  Altura ajustada automáticamente según el tamaño de la imagen 
+    margin-right: 10px;  Margen a la derecha para separar la imagen de los enlaces 
+  }
+  
+  .nav-links {
+    margin-left: auto;  Mueve los enlaces a la derecha 
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-links li {
+    margin-left: 10px;  Espacio entre los enlaces 
+  }
+  
+  .nav-divider {
+    margin-top: 10px; Espacio entre la línea divisoria y los enlaces 
+  }*/
+
